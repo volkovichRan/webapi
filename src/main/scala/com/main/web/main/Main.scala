@@ -1,4 +1,4 @@
-package com.web.main
+package com.main.web.main
 
 object Main extends App {
 
